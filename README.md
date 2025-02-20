@@ -6,12 +6,6 @@ This is my first repository. I am creating this repository for my business analy
 This is my practice using GitHub repository, this is the project description. 
 # How to run a program
 This is how you run a program
-Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
 # Files Used 
 1. Data files that get used
 2. Data files named
